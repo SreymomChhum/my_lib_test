@@ -1,0 +1,13 @@
+{
+    "name": "sreymom/my-lib",
+    "description": "just for test",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Sreymom\\MyLib\\": "src/"
+        }
+    },
+    "minimum-stability": "stable",
+    "require": {}
+}
